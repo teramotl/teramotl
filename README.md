@@ -15,3 +15,4 @@
   </picture>
 </div>
 
+![Steam Metrics](metrics.plugin.steam.svg)
