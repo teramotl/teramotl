@@ -1,4 +1,3 @@
-
 <picture>
   <img src="https://github.com/teramotl/storage/raw/main/images/lain%20coding%20banner.png" alt="lain banner"">
 </picture>  
