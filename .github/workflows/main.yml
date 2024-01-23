@@ -26,5 +26,5 @@ jobs:
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561199091133576"  # Replace with your Steam user ID
-          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_sections: player, recently-played
           # Add other Steam plugin configuration options as needed
