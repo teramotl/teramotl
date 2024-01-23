@@ -6,7 +6,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats">
 </div>
-
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<div align="center">
+  <picture>
+    <img src="/github-metrics.svg" alt="Metrics">
+  </picture>
+</div>
