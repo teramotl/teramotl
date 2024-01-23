@@ -31,3 +31,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           filename: metrics.plugin.isocalendar.svg
+
