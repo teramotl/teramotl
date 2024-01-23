@@ -14,4 +14,4 @@
     <img src="/github-metrics.svg" alt="Metrics">
   </picture>
 </div>
-![Isometric commit calendar](/metrics.plugin.isocalendar.svg)
+
