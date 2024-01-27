@@ -13,11 +13,10 @@ jobs:
       name: production
     permissions:
       contents: write
-    steps:    
+    steps:
       - uses: lowlighter/metrics@latest
         with:
-          config_timezone: Europe/Paris
-
+          token: ${{ secrets.METRICS_TOKEN }}
           
           
           
