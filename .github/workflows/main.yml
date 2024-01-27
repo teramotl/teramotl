@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "*/5 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -22,10 +22,11 @@ jobs:
             contributions
             lines
             steam
-          config_timezone: Europe/Paris # Adjust timezone if needed
+          config_timezone: Europe/Paris
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: "76561199091133576"  # Replace with your Steam user ID
-          plugin_steam_sections: player, recently-played
-          # Add other Steam plugin configuration options as needed
-      
+          plugin_steam_user: "76561199091133576" 
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_recent_games_limit: 1
+          plugin_steam_games_limit: 1
+          plugin_steam_games_ignored: 1325860, 431960
