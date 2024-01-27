@@ -22,9 +22,10 @@ jobs:
             contributions
             lines
             steam
-          config_timezone: Europe/Paris # Adjust timezone if needed
+          config_timezone: Europe/Paris
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: "76561199091133576"  # Replace with your Steam user ID
+          plugin_steam_user: "76561199091133576" 
           plugin_steam_sections: player, recently-played
-          # Add other Steam plugin configuration options as needed
+          plugin_steam_recent_games_limit: 3
+          
