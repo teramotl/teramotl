@@ -27,6 +27,22 @@ jobs:
           plugin_achievements_threshold: C
           plugin_fortune: yes
 
+      - name: 🦑 Steam
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: steam.svg
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          base: ""
+          plugin_steam: yes
+          plugin_steam_achievements_limit: 2
+          plugin_steam_games_ignored: 1325860, 431960
+          plugin_steam_games_limit: 1
+          plugin_steam_playtime_threshold: 2
+          plugin_steam_recent_games_limit: 1
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_user: "76561199091133576"
+
       - name: 🦑 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -38,8 +54,6 @@ jobs:
           base_indepth: yes
           config_order: base.head, base.second
           config_timezone: Asia/Tashkent
-          plugin_steam_user: "76561199091133576"
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -59,10 +73,3 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_ignored: 1325860, 431960
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
