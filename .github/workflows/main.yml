@@ -8,16 +8,17 @@ on:
   push: {branches: ["master", "main"]}
   
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
+
       - name: General
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
+          filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugins: |
             contributions
             lines
