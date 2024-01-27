@@ -1,20 +1,11 @@
-<!-- Lain Banner -->
-<picture>
-  <img src="https://github.com/teramotl/storage/raw/main/images/lain%20coding%20banner.png" alt="lain banner">
-</picture>
+<!-- Lain Coding Banner -->
+[<img align="center" width="100%" alt="Lain Coding Banner" src="https://github.com/teramotl/storage/raw/main/images/lain%20coding%20banner.png">](#)
 
 <!-- GitHub Stats -->
-<div align="center">
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats">
-  </picture>
-</div>
+[<img align="center" width="200" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
 
-<div align="left">
-  <img width="390" alt="" src="metrics.plugin.steam.svg">
-</div>
 
-<div align="right">
-  <img width="150" alt="Metrics" src="/github-metrics.svg">
-</div>
+<!-- Metrics Plugin -->
+[<img align="left" width="400" alt="" src="/github-metrics.svg">](#)
 
+[<img align="right" width="600" alt="" src="metrics.plugin.steam.svg">](#)
