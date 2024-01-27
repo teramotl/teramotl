@@ -19,7 +19,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-        name: Recently played games
+      - name: Recently played games
       - uses: lowlighter/metrics@latest
         with:
          filename: metrics.plugin.steam.svg
