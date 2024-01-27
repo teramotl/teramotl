@@ -27,5 +27,5 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561199091133576" 
           plugin_steam_sections: player, recently-played
-          plugin_steam_recent_games_limit: 3
+          plugin_steam_recent_games_limit: 2
           
