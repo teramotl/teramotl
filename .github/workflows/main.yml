@@ -6,16 +6,14 @@ on:
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment:
-      name: production
     permissions:
       contents: write
-      
+
     steps:
-    
       - name: General
         uses: lowlighter/metrics@latest
         with:
@@ -24,7 +22,6 @@ jobs:
             contributions
             lines
           
-
       - name: Steam
         uses: lowlighter/metrics@latest
         with:
@@ -39,6 +36,3 @@ jobs:
           plugin_steam_recent_games_limit: 1
           plugin_steam_games_limit: 1
           plugin_steam_games_ignored: 1325860, 431960
-
-
-        
