@@ -13,17 +13,18 @@ jobs:
       name: production
     permissions:
       contents: write
-    steps:
-
-      - name: General
-        if: ${{ success() || failure() }}
+    steps:    
+      - name: Default metrics
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+         filename: metrics.base.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: header, activity, community, repositories, metadata
+
+          
           
           
       - name: Steam
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.STEAM_TOKEN }}
