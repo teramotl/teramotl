@@ -33,8 +33,6 @@ jobs:
         with:
           filename: steam.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          plugins: |
-            steam
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561199091133576" 
