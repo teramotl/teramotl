@@ -28,4 +28,4 @@ jobs:
           plugin_steam_user: "76561199091133576" 
           plugin_steam_sections: player, recently-played
           plugin_steam_recent_games_limit: 2
-          
+          plugin_steam_games_ignored: 1325860
