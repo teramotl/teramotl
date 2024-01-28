@@ -18,15 +18,14 @@
 <!-- Languages -->
 [<img aling="left" width="420" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
 
-
-<!-- Fortune -->
-[<img align="right" width="400" alt="fortune" src="metrics.plugin.fortune.svg">](#)
-
 <!-- Achievments -->
 [<img align="right" width="400" alt="Achievments" src="achievements.svg">](#)
 
 <!-- Steam -->
 [<img align="left" width="400" alt="" src="metrics.plugin.steam.svg">](#)
 
+
+<!-- Fortune -->
+[<img align="right" width="400" alt="fortune" src="metrics.plugin.fortune.svg">](#)
 
 
