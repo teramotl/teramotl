@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 🦑 Achievements
+      - name: Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -48,6 +48,17 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_user: teramotl
+
+
 
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
@@ -62,7 +73,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
 
 
-      - name: 🦑 General
+      - name: General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
