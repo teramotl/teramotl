@@ -2,8 +2,10 @@
 [<img align="center" width="100%" alt="Lain Coding Banner" src="https://github.com/teramotl/storage/raw/main/images/lain%20coding%20banner.png">](#)
 
 <!-- Achievments -->
-[<img align="center" width="500" alt="Achievments" src="achievements.svg">]
+[<img align="center" width="500" alt="Achievments" src="achievements.svg">](#)
 
+<!-- Calendar -->
+[<img align="center"> width="300" alt="" src="metrics.plugin.isocalendar.svg">]
 <!-- Metrics Plugin -->
 [<img align="left" width="400" alt="" src="general.svg">](#)
 
