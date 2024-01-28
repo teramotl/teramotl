@@ -4,15 +4,15 @@
 <!-- Metrics Plugin -->
 [<img align="left" width="400" alt="" src="general.svg">](#)
 
-<!-- GitHub Stats -->
-[<img align="left" width="400" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
-
 <!-- Calendar -->
 [<img align="right" width="350" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
 
-
 <!-- Languages -->
 [<img aling="left" width="400" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
+
+
+<!-- GitHub Stats -->
+[<img align="left" width="400" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
 
 
 <!-- Achievments -->
