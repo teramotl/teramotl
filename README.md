@@ -5,7 +5,7 @@
 [<img align="center" width="500" alt="Achievments" src="achievements.svg">](#)
 
 <!-- Calendar -->
-[<img align="center"> width="300" alt="" src="metrics.plugin.isocalendar.svg">]
+[<img align="center" width="300" alt="" src="metrics.plugin.isocalendar.halfyear.svg">]
 <!-- Metrics Plugin -->
 [<img align="left" width="400" alt="" src="general.svg">](#)
 
