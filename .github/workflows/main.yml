@@ -25,6 +25,15 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
 
+      - name: Fortune
+        uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.fortune.svg
+         token: NOT_NEEDED
+         base: ""
+         plugin_fortune: yes
+
+
       - name: Steam
         uses: lowlighter/metrics@latest
         with:
@@ -84,4 +93,3 @@ jobs:
           base_indepth: yes
           config_order: base.head, base.second
           config_timezone: Asia/Tashkent
-          plugin_fortune: yes
