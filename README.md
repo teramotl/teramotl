@@ -12,5 +12,8 @@
 <!-- GitHub Stats -->
 [<img align="right" width="400" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
 
+<!-- Languages -->
+[<img aling="center" width="500" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
+
 <!-- Steam -->
 [<img align="right" width="400" alt="" src="metrics.plugin.steam.svg">](#)
