@@ -8,14 +8,14 @@
 [<img align="right" width="350" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
 
 <!-- GitHub Stats -->
-[<img align="right" width="390" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
+[<img align="left" width="390" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
 
 <!-- Languages -->
-[<img aling="right" width="390" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
+[<img aling="left" width="390" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
 
 
 <!-- Achievments -->
-[<img align="left" width="390" alt="Achievments" src="achievements.svg">](#)
+[<img align="right" width="390" alt="Achievments" src="achievements.svg">](#)
 
 
 <!-- Leetcode -->
