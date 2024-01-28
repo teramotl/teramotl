@@ -5,7 +5,7 @@
 [<img align="left" width="400" alt="" src="general.svg">](#)
 
 <!-- Calendar -->
-[<img align="right" width="350" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
+[<img align="right" width="400" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
 
 <!-- Languages -->
 [<img aling="right" width="200" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
