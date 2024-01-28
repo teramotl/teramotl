@@ -11,7 +11,7 @@
 [<img align="left" width="400" alt="Achievments" src="achievements.svg">](#)
 
 <!-- Calendar -->
-[<img align="center" width="300" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
+[<img align="right" width="400" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
 
 <!-- Leetcode -->
 [<img align="right" width="400" alt="Leetcode" src="metrics.plugin.leetcode.svg">](#)
