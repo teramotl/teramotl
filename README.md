@@ -8,4 +8,4 @@
 <!-- Metrics Plugin -->
 [<img align="right" width="600" alt="" src="/github-metrics.svg">](#)
 
-[<img align="left" width="100" alt="" src="metrics.plugin.steam.svg">](#)
+[<img align="left" width="500" alt="" src="metrics.plugin.steam.svg">](#)
