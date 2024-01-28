@@ -4,11 +4,12 @@
 <!-- Metrics Plugin -->
 [<img align="left" width="400" alt="" src="general.svg">](#)
 
+<!-- GitHub Stats -->
+[<img align="right" width="390" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
+
 <!-- Calendar -->
 [<img align="left" width="400" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
 
-<!-- GitHub Stats -->
-[<img align="right" width="390" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
 
 <!-- Achievments -->
 [<img align="left" width="390" alt="Achievments" src="achievements.svg">](#)
