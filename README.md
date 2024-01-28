@@ -3,7 +3,7 @@
 
 
 <!-- Metrics Plugin -->
-[<img align="left" width="500" alt="" src="/github-metrics.svg">](#)
+[<img align="left" width="400" alt="" src="/github-metrics.svg">](#)
 <!-- GitHub Stats -->
 [<img align="right" width="400" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
 
