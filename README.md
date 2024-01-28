@@ -1,5 +1,5 @@
 <!-- Lain Coding Banner -->
-[<img align="center" width="100%" alt="Lain Coding Banner" src="https://github.com/teramotl/storage/blob/main/images/shinji%20dying%20lol.png?raw=true">](#)
+[<img align="center" width="100%" alt="Lain Coding Banner" src="https://github.com/teramotl/storage/blob/main/images/shinji.png?raw=true">](#)
 
 <!-- Metrics Plugin -->
 [<img align="left" width="400" alt="" src="general.svg">](#)
