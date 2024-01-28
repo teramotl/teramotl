@@ -89,7 +89,7 @@ jobs:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
         
-          base: header
+          base: header, repositories
           base_indepth: yes
           config_order: base.head, base.second
           config_timezone: Asia/Tashkent
