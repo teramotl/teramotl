@@ -11,12 +11,13 @@
 [<img align="left" width="400" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
 
 
+<!-- Languages -->
+[<img aling="right" width="390" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
+
+
 <!-- Achievments -->
 [<img align="left" width="390" alt="Achievments" src="achievements.svg">](#)
 
-
-<!-- Languages -->
-[<img aling="right" width="390" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
 
 <!-- Leetcode -->
 [<img align="right" width="400" alt="Leetcode" src="metrics.plugin.leetcode.svg">](#)
