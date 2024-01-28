@@ -16,7 +16,7 @@
 
 
 <!-- Languages -->
-[<img aling="left" width="380" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
+[<img aling="left" width="400" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
 
 <!-- Achievments -->
 [<img align="right" width="390" alt="Achievments" src="achievements.svg">](#)
