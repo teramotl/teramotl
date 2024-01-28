@@ -8,10 +8,10 @@
 [<img align="right" width="350" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
 
 <!-- GitHub Stats -->
-[<img align="left" width="140" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
+[<img align="left" width="400" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
 
 <!-- Languages -->
-[<img aling="left" width="390" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
+[<img aling="left" width="400" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
 
 
 <!-- Achievments -->
