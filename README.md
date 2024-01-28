@@ -11,7 +11,7 @@
 [<img align="left" width="400" alt="Achievments" src="achievements.svg">](#)
 
 <!-- Calendar -->
-[<img align="right" width="400" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
+[<img align="left" width="400" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
 
 <!-- Languages -->
 [<img aling="right" width="400" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
