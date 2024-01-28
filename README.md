@@ -26,6 +26,6 @@
 
 
 <!-- Fortune -->
-[<img align="right" width="500" alt="fortune" src="metrics.plugin.fortune.svg">](#)
+[<img align="right" width="400" alt="fortune" src="metrics.plugin.fortune.svg">](#)
 
 
