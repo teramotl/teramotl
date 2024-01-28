@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: teramotl/metrics@latest
+        uses: ./metrics@latest
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -29,7 +29,7 @@ jobs:
 
       - name: 🦑 Steam
         if: ${{ success() || failure() }}
-        uses: teramotl/metrics@latest
+        uses: ./metrics@latest
         with:
           filename: steam.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -43,7 +43,7 @@ jobs:
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: teramotl/metrics@latest
+        uses: ./metrics@latest
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
