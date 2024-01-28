@@ -8,7 +8,7 @@
 [<img align="left" width="390" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
 
 <!-- Achievments -->
-[<img align="left" width="400" alt="Achievments" src="achievements.svg">](#)
+[<img align="left" width="390" alt="Achievments" src="achievements.svg">](#)
 
 <!-- Calendar -->
 [<img align="left" width="400" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
