@@ -9,6 +9,9 @@
 <!-- Metrics Plugin -->
 [<img align="left" width="400" alt="" src="general.svg">](#)
 
+<!-- Leetcode -->
+[<img align="center" width="200" alt="Leetcode" src="metrics.plugin.leetcode.svg">](#)
+
 <!-- GitHub Stats -->
 [<img align="right" width="400" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=tokyonight">](#)
 
