@@ -8,7 +8,7 @@
 [<img align="right" width="350" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
 
 <!-- Languages -->
-[<img aling="left" width="200" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
+[<img aling="right" width="200" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
 
 
 <!-- GitHub Stats -->
