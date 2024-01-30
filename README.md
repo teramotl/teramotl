@@ -16,7 +16,7 @@
 
 
 <!-- Languages -->
-[<img aling="left" width="420" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
+[<img aling="left" width="320" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
 
 <!-- Achievments -->
 [<img align="right" width="400" alt="Achievments" src="achievements.svg">](#)
@@ -26,6 +26,6 @@
 
 
 <!-- Fortune -->
-[<img align="right" width="300" alt="fortune" src="metrics.plugin.fortune.svg">](#)
+[<img align="right" width="400" alt="fortune" src="metrics.plugin.fortune.svg">](#)
 
 
