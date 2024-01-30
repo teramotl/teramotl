@@ -12,7 +12,7 @@
 [<img align="left" width="300" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teramotl&show_icons=true&theme=transparent">](#)
 
 <!-- Leetcode -->
-[<img align="right" width="400" alt="Leetcode" src="metrics.plugin.leetcode.svg">](#)
+[<img align="right" width="300" alt="Leetcode" src="metrics.plugin.leetcode.svg">](#)
 
 
 <!-- Languages -->
