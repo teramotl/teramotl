@@ -19,13 +19,13 @@
 [<img aling="left" width="320" alt="calendar" src="metrics.plugin.languages.indepth.svg">](#)
 
 <!-- Achievments -->
-[<img align="right" width="400" alt="Achievments" src="achievements.svg">](#)
+[<img align="right" width="300" alt="Achievments" src="achievements.svg">](#)
 
 <!-- Steam -->
-[<img align="left" width="400" alt="" src="metrics.plugin.steam.svg">](#)
+[<img align="left" width="300" alt="" src="metrics.plugin.steam.svg">](#)
 
 
 <!-- Fortune -->
-[<img align="right" width="400" alt="fortune" src="metrics.plugin.fortune.svg">](#)
+[<img align="right" width="300" alt="fortune" src="metrics.plugin.fortune.svg">](#)
 
 
