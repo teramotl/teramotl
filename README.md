@@ -2,7 +2,7 @@
 [<img align="center" width="100%" alt="Lain Coding Banner" src="https://github.com/teramotl/storage/blob/main/images/shinji.png?raw=true">](#)
 
 <!-- Metrics Plugin -->
-[<img align="left" width="400" alt="" src="general.svg">](#)
+[<img align="left" width="300" alt="" src="general.svg">](#)
 
 <!-- Calendar -->
 [<img align="right" width="400" alt="" src="metrics.plugin.isocalendar.halfyear.svg">](#)
