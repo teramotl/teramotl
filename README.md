@@ -1,5 +1,5 @@
-<!-- Lain Coding Banner -->
-[<img align="center" width="100%" alt="Lain Coding Banner" src="https://github.com/teramotl/storage/blob/main/images/rei-asuka.png?raw=true">](#)
+<!-- Shinji Banner -->
+[<img align="center" width="100%" alt="Lain Coding Banner" src="https://github.com/teramotl/storage/blob/main/images/shinji.png?raw=true">](#)
 
 <!-- Metrics Plugin -->
 [<img align="left" width="390" alt="" src="general.svg">](#)
